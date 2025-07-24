@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuta</h1>
-<h3 align="center">A Hobby Engineer from Japan</h3>
+<h1 align="center">Hi 👋, I'm ssky</h1>
+<h3 align="center">Engineer from Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
